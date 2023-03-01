@@ -1,4 +1,4 @@
-!/bin/sh
+#!/bin/sh
 #
 #    Copyright (C) 2008-2021  Ruben Rodriguez <ruben@trisquel.org>
 #
